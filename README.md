@@ -1,6 +1,6 @@
-# SUSF CanSat — ESP32 Sensor Suite & DAQ
+# SUSF CanSat Sensor Board Firmware
 
-An embedded data acquisition (DAQ) system for a CanSat payload, running on an **ESP32**. It reads from six sensors at independent sampling rates, logs all data to an SD card as CSV, and streams a formatted report over Serial.
+Embedded firmware for the SUSF CanSat sensor board, running on an **ESP32**. It reads from six sensors at independent sampling rates, logs all data to an SD card as CSV, and streams a formatted report over Serial.
 
 ---
 
