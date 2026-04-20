@@ -1,0 +1,17 @@
+# Arduino build artifacts
+build/
+*.elf
+*.bin
+*.hex
+*.map
+
+# PlatformIO
+.pio/
+.vscode/
+
+# SD card log (generated at runtime)
+log.csv
+
+# OS
+.DS_Store
+Thumbs.db
